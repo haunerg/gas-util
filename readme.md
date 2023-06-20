@@ -3,5 +3,5 @@
 ## npm 安装
 
 ```
-npm i gas-util
+  npm i gas-util
 ```
