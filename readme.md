@@ -5,3 +5,20 @@
 ```
   npm i gas-util
 ```
+
+## 引入gas-util
+```
+  import gasUtil from 'gas-util'
+```
+
+## 按需引入gas-util
+```
+  import {time, common, string} from 'gas-util'
+```
+
+## 各模块讲解
+
+### time
+
+#### time.formtTime(str, date)
+
